@@ -9,6 +9,20 @@ Created by comunity
 History of Recent Updates
 -------------------------
 
+29/05/2016 : 
+* delete
+  - bookshelf
+  - sugarcanne
+  - font
+  - snowman overlay
+  - steve
+* Change
+  - iron bars by [lipki] (https://github.com/lipki)
+  - icone pack.png by [lipki] (https://github.com/lipki)
+  - leaves because bug
+* Added
+  - red sandstone by [lipki] (https://github.com/lipki)
+
 12/09/2014 : Release 1.8 bêta
 * Added
   - new mob textures for MCPatcher by [lipki] (https://github.com/lipki)
