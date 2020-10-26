@@ -1,8 +1,8 @@
 ﻿[![SummerFields] (http://summerfields.github.io/official/signature/sign2.png) ] (http://summerfields.github.io/official/)
 ============
 
-This is the add-on 3d model for Summerfields 1.8
-To use, add to Summerfields pack 1.8 in the list of "ressources pack"
+This is the add-on 3d model for Summerfields 1.16.2+
+To use, add to Summerfields pack 1.16.2+ in the list of "ressources pack"
 
 Created by comunity
 
