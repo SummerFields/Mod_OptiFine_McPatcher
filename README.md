@@ -9,6 +9,9 @@ Created by comunity
 History of Recent Updates
 -------------------------
 
+26/10/2020 :
+Full of change by [lipki] (https://github.com/lipki) and [Tentrilix] (https://github.com/Tentrilix)
+
 29/05/2016 : 
 * delete
   - bookshelf
